@@ -13,4 +13,5 @@ if(m==sum)
 printf("Palindromic");
 else
 printf("Not Palindromic");
+return 0
 }
